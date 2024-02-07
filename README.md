@@ -38,7 +38,8 @@ Re.staurant ( Review Restaurant. 네이버 식당 리뷰를 크롤링 하여 성
 
 * **리뷰 주제 선정** <br/>
  관광 지출액 비율중 식음료의 비율이 가장 높아 제공 서비스를 식당 리뷰로 선택 <br/>
- ![image](https://github.com/Son-Hyemin/Review_Crawling_projoect/assets/120477911/a7fccf72-49c3-4511-9fd8-f4ef93433d80) 
+
+![image](https://github.com/Son-Hyemin/Review_Crawling_projoect/assets/120477911/a7fccf72-49c3-4511-9fd8-f4ef93433d80) 
 <br/>
 ( 출처 : 한국관광데이터 관광 지출액 2022.06~2023.05)
 
