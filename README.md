@@ -55,7 +55,7 @@ Re.staurant ( Review Restaurant. 네이버 식당 리뷰를 크롤링 하여 성
   \- TIBERO6 <br/>
 
 * **데이터 수집** <br/>
-  \- Jupyter <br/>
+  \- Jupyter Python(Selenium, ChromDriver, Requests, BeautifulSoup) <br/>
 
 * **KVM** <br/>
   \- Docker <br/>
