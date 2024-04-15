@@ -142,7 +142,7 @@ Re.staurant ( Review Restaurant. 네이버 식당 리뷰를 크롤링 하여 성
 
 ---------------------
 **UI/UX 초안**
-- Figma를 활용한 초안
+- Figma를 활용한 초안 👉[보러가기](https://www.figma.com/proto/EBAbsyjtL4MBG1pQRmO2Ll/4%EC%A1%B0?page-id=946%3A12043&type=design&node-id=946-12503&viewport=824%2C534%2C0.17&t=pPi810Uni8tCZWzJ-1&scaling=scale-down&starting-point-node-id=946%3A12503&mode=design)
 
-https://www.figma.com/proto/EBAbsyjtL4MBG1pQRmO2Ll/4%EC%A1%B0?page-id=946%3A12043&type=design&node-id=946-12503&viewport=824%2C534%2C0.17&t=pPi810Uni8tCZWzJ-1&scaling=scale-down&starting-point-node-id=946%3A12503&mode=design
+
 
