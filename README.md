@@ -13,8 +13,7 @@ Re.staurant ( Review Restaurant. 네이버 식당 리뷰를 크롤링 하여 성
 * **Team project** <br/>
   \- TABA2기 4조 <br/>
   \- 팀원 : 김영호, 손혜민, 이영민, 우주혜, 최진형 <br/>
-  \- NOTION : <br/>
-      https://tabateam4.notion.site/f0dd2292c8304925bdcefb84cf30e76c?v=dcfa3d3b2b7948c19a48a75484cc883e
+  \- NOTION : 📓[바로가기](https://tabateam4.notion.site/f0dd2292c8304925bdcefb84cf30e76c?v=dcfa3d3b2b7948c19a48a75484cc883e)
 
 
 ## 2. 프로젝트 개요
